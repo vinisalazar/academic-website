@@ -11,7 +11,7 @@ const Index = () => {
           className="w-40 h-40 rounded-full object-cover border-2 border-border shrink-0"
         />
         <div>
-          <h1 className="font-serif text-4xl font-semibold tracking-tight mb-3 text-foreground">
+          <h1 className="font-sans text-4xl font-semibold tracking-tight mb-3 text-foreground">
             Vinícius W. Salazar
           </h1>
           <p className="text-lg text-muted-foreground mb-6">

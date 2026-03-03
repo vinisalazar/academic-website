@@ -13,8 +13,8 @@ export default {
       },
     },
     fontFamily: {
-      serif: ['Lora', 'Georgia', 'Times New Roman', 'serif'],
-      sans: ['Source Sans 3', 'Segoe UI', 'Roboto', 'sans-serif'],
+      serif: ['Computer Modern', 'Georgia', 'Times New Roman', 'serif'],
+      sans: ['Computer Modern Sans', 'Segoe UI', 'Roboto', 'sans-serif'],
     },
     extend: {
       colors: {
