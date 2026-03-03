@@ -28,7 +28,7 @@ Bio-ORACLE v3.0. Pushing marine data layers to the CMIP6 Earth System Models of 
 
 ## Thesis
 
-**Salazar, V.W.** (2025). *Metagenomic Data Integration for Microbial Oceanography*. PhD Thesis, School of Mathematics and Statistics, University of Melbourne.
+**Salazar, V.W.** (2025). *Metagenomic Data Integration for Microbial Oceanography*. PhD Thesis, School of Mathematics and Statistics, The University of Melbourne.
 
 ---
 

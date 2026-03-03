@@ -1,6 +1,6 @@
 # Academic Website — Dr. Vinícius W. Salazar
 
-Personal academic website for Dr. Vinícius Werneck Salazar, Bioinformatician at Melbourne Bioinformatics (VLSCI), University of Melbourne.
+Personal academic website for Dr. Vinícius Werneck Salazar, Bioinformatician at Melbourne Bioinformatics (VLSCI), The University of Melbourne.
 
 ## Tech stack
 

@@ -25,14 +25,14 @@ const Index = () => {
             </p>
             <p>
               Currently, I am a Bioinformatician at{" "}
-              <strong>Melbourne Bioinformatics</strong>, University of Melbourne.
+              <strong>Melbourne Bioinformatics</strong>, The University of Melbourne.
               My research focuses on metagenomic data integration for microbial oceanography,
               environmental DNA analysis, and the development of open bioinformatics tools.
             </p>
             <p>
               My PhD thesis,{" "}
               <em>Metagenomic Data Integration for Microbial Oceanography</em>, was completed
-              at the School of Mathematics and Statistics, University of Melbourne.
+              at the School of Mathematics and Statistics, The University of Melbourne.
             </p>
           </div>
 

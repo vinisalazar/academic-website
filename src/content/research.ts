@@ -18,7 +18,7 @@ I am committed to open-source software development and reproducible research. I 
 
 ## Current Role
 
-I work as a **Bioinformatician** at [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/), University of Melbourne, where I support researchers across the life sciences with bioinformatics analysis, software development, and training.
+I work as a **Bioinformatician** at [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/), The University of Melbourne, where I support researchers across the life sciences with bioinformatics analysis, software development, and training.
 
 ## Collaborations
 
