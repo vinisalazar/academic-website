@@ -1,27 +1,26 @@
 export const researchContent = `# Research
 
-My research lies at the intersection of **computational linguistics** and **cognitive science**, with a focus on how humans process and produce natural language in real-time.
+My research lies at the intersection of **bioinformatics**, **marine microbial ecology**, and **computational biology**. I develop and apply computational methods to understand the diversity, function, and biogeography of microbial communities in the ocean.
 
-## Current Projects
+## Research Interests
 
-### Neural Mechanisms of Syntactic Prediction
-We investigate how the brain anticipates upcoming syntactic structures during sentence comprehension, using EEG and computational modeling. This work is funded by a National Science Foundation CAREER Award (2023–2028).
+### Metagenomic Data Integration
+I develop methods for integrating large-scale metagenomic datasets with environmental and climatic data to reveal patterns in microbial biogeography. My PhD thesis, *Metagenomic Data Integration for Microbial Oceanography*, focused on how computational approaches can extract biological signal from complex, heterogeneous sequencing data.
 
-### Cross-linguistic Variation in Information Structure
-How do speakers of typologically diverse languages encode new vs. given information? This collaborative project with researchers at the University of Tokyo and Humboldt University Berlin examines prosodic and syntactic strategies across 12 languages.
+### Marine Microbial Ecology
+I study the ecological roles of marine microorganisms—from picoplankton biogeography at global scales to the carbon cycling contributions of coralline algal beds and hypersaline microbial mats. My work contributes to understanding how microbial processes underpin ocean ecosystem functioning.
 
-### Computational Models of Language Acquisition
-Using neural network models and Bayesian inference, we study how children learn the syntax of their native language from limited input. Our recent paper in *Cognition* demonstrated that a surprisingly small amount of data is sufficient for acquiring core grammatical rules.
+### Environmental DNA (eDNA)
+I collaborate on the development and validation of tools for environmental DNA sampling, including water column eDNA devices for detecting deep-sea fish assemblages. This work bridges molecular methods with conservation and biodiversity monitoring.
 
-## Research Group
+### Bioinformatics Software & Open Science
+I am committed to open-source software development and reproducible research. I contribute to community resources such as Bio-ORACLE, a suite of marine environmental data layers for species distribution modelling, and develop pipelines for microbial genomics and metagenomics.
 
-I lead the **Language, Computation & Cognition Lab** (LC² Lab) at the University. We currently have 3 PhD students, 2 postdocs, and several undergraduate research assistants.
+## Current Role
 
-If you are interested in joining the lab, please see [open positions](/cv) or contact me directly.
+I work as a **Bioinformatician** at [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/) (VLSCI), University of Melbourne, where I support researchers across the life sciences with bioinformatics analysis, software development, and training.
 
-## Funding
+## Collaborations
 
-- NSF CAREER Award, "Predictive Processing in Syntax" (2023–2028)
-- NIH R01, "Neural Bases of Cross-linguistic Processing" (2022–2026)
-- University Research Fellowship (2021–2024)
+My research involves collaborations across microbiology, marine science, and computational biology, spanning projects on novel bacterial species, plant-microbiome interactions, and marine carbon cycling.
 `;
