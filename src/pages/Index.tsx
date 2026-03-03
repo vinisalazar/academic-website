@@ -7,32 +7,32 @@ const Index = () => {
       <div className="flex flex-col md:flex-row gap-10 items-start">
         <img
           src={profileImage}
-          alt="Dr. Jane Smith"
+          alt="Dr. Vinícius W. Salazar"
           className="w-40 h-40 rounded-full object-cover border-2 border-border shrink-0"
         />
         <div>
           <h1 className="font-serif text-4xl font-semibold tracking-tight mb-3 text-foreground">
-            Jane Smith
+            Vinícius W. Salazar
           </h1>
           <p className="text-lg text-muted-foreground mb-6">
-            Associate Professor of Linguistics · University of California
+            Bioinformatician · Melbourne Bioinformatics (VLSCI)
           </p>
           <div className="prose">
             <p>
-              I study how humans understand and produce language in real-time, drawing on
-              methods from computational modeling, psycholinguistics, and cognitive neuroscience.
-              My work explores syntactic prediction, cross-linguistic variation, and language acquisition.
+              I am a research software engineer and bioinformatician with extensive experience
+              in open-source development and software education. My work sits at the intersection
+              of computational biology, marine microbial ecology, and metagenomics.
             </p>
             <p>
-              I direct the{" "}
-              <strong>Language, Computation &amp; Cognition Lab</strong> (LC² Lab),
-              where we combine behavioral experiments, neuroimaging, and computational models
-              to understand the cognitive architecture of language.
+              Currently, I am a Bioinformatician at{" "}
+              <strong>Melbourne Bioinformatics</strong> (VLSCI), University of Melbourne.
+              My research focuses on metagenomic data integration for microbial oceanography,
+              environmental DNA analysis, and the development of open bioinformatics tools.
             </p>
             <p>
-              My book{" "}
-              <em>Language in Mind and Brain: A Computational Approach</em> was published
-              by Oxford University Press in 2022.
+              My PhD thesis,{" "}
+              <em>Metagenomic Data Integration for Microbial Oceanography</em>, was completed
+              at the School of Mathematics and Statistics, University of Melbourne.
             </p>
           </div>
 
