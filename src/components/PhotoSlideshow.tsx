@@ -5,6 +5,12 @@ const photos = Object.values(
   import.meta.glob("../assets/photos/*", { eager: true, query: "?url", import: "default" })
 ) as string[];
 
+// Fisher-Yates shuffle, runs once at module load time
+for (let i = photos.length - 1; i > 0; i--) {
+  const j = Math.floor(Math.random() * (i + 1));
+  [photos[i], photos[j]] = [photos[j], photos[i]];
+}
+
 const AUTOPLAY_INTERVAL = 5000;
 
 const PhotoSlideshow = () => {
