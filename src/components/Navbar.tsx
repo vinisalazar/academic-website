@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="border-b border-border bg-background/80 backdrop-blur-sm sticky top-0 z-50">
       <div className="max-w-3xl mx-auto px-6 flex items-center justify-between h-14">
         <Link to="/" className="font-sans text-lg font-semibold tracking-tight text-foreground hover:opacity-75 transition-opacity">
-          Dr. Vinícius W. Salazar
+          Dr. Vini Salazar
         </Link>
 
 

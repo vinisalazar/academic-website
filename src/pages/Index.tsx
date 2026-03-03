@@ -7,12 +7,12 @@ const Index = () => {
       <div className="flex flex-col md:flex-row gap-10 items-start">
         <img
           src={profileImage}
-          alt="Dr. Vinícius W. Salazar"
+          alt="Dr. Vini Salazar"
           className="w-40 h-40 rounded-full object-cover border-2 border-border shrink-0"
         />
         <div>
           <h1 className="font-sans text-4xl font-semibold tracking-tight mb-3 text-foreground">
-            Vinícius W. Salazar
+            Vini Salazar
           </h1>
           <p className="text-lg text-muted-foreground mb-6">
             Bioinformatician · Melbourne Bioinformatics
@@ -33,6 +33,9 @@ const Index = () => {
               My PhD thesis,{" "}
               <em>Metagenomic Data Integration for Microbial Oceanography</em>, was completed
               at the School of Mathematics and Statistics, The University of Melbourne.
+            </p>
+            <p>
+              I use Vinícius W. Salazar in formal documents and texts, and Vini Salazar everywhere else.
             </p>
           </div>
 
