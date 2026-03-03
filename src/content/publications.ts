@@ -1,6 +1,6 @@
 export const publicationsContent = `# Publications
 
-A selection of recent publications. For a full list, see my [ORCID profile](https://orcid.org/0000-0002-8362-3195).
+A selection of recent publications. For a full list, see my [Google Scholar profile](https://scholar.google.com/citations?user=P6xo0BsAAAAJ&hl=en) or [ORCID profile](https://orcid.org/0000-0002-8362-3195).
 
 ---
 
