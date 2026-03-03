@@ -14,7 +14,9 @@ I study the ecological roles of marine microorganisms—from picoplankton biogeo
 I collaborate on the development and validation of tools for environmental DNA sampling, including water column eDNA devices for detecting deep-sea fish assemblages. This work bridges molecular methods with conservation and biodiversity monitoring.
 
 ### Bioinformatics Software & Open Science
-I am committed to open-source software development and reproducible research. I contribute to community resources such as [nf-core](https://nf-co.re/) and [Bioconda](https://bioconda.github.io/), and develop pipelines for microbial genomics and metagenomics.
+I am committed to open-source software development and reproducible research. I contribute to community resources such as [nf-core](https://nf-co.re/) and [Bioconda](https://bioconda.github.io/), and develop pipelines for microbial genomics and metagenomics. Here's my GitHub activity for the past year for you to judge if I've been putting in the work or have been slacking off: 
+
+![GitHub contributions](https://ghchart.rshah.org/vinisalazar)
 
 ## Current Role
 
