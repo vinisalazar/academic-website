@@ -8,7 +8,7 @@ export const cvContent = `# Curriculum Vitae
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| present | Bioinformatician | Melbourne Bioinformatics (VLSCI), University of Melbourne |
+| present | Bioinformatician | Melbourne Bioinformatics, University of Melbourne |
 
 ## Education
 
@@ -28,7 +28,7 @@ export const cvContent = `# Curriculum Vitae
 ## Contact
 
 Dr. Vinícius W. Salazar
-Melbourne Bioinformatics (VLSCI)
+Melbourne Bioinformatics (formerly VLSCI, Victorian Life Sciences Computation Initiative)
 University of Melbourne
 Email: vinicius.salazar@unimelb.edu.au
 ORCID: [0000-0002-8362-3195](https://orcid.org/0000-0002-8362-3195)

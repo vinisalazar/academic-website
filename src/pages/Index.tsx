@@ -15,7 +15,7 @@ const Index = () => {
             Vinícius W. Salazar
           </h1>
           <p className="text-lg text-muted-foreground mb-6">
-            Bioinformatician · Melbourne Bioinformatics (VLSCI)
+            Bioinformatician · Melbourne Bioinformatics
           </p>
           <div className="prose">
             <p>
@@ -25,7 +25,7 @@ const Index = () => {
             </p>
             <p>
               Currently, I am a Bioinformatician at{" "}
-              <strong>Melbourne Bioinformatics</strong> (VLSCI), University of Melbourne.
+              <strong>Melbourne Bioinformatics</strong>, University of Melbourne.
               My research focuses on metagenomic data integration for microbial oceanography,
               environmental DNA analysis, and the development of open bioinformatics tools.
             </p>
