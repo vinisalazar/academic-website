@@ -19,7 +19,7 @@ const Index = () => {
           </p>
           <div className="prose">
             <p>
-              I am a research software engineer and bioinformatician with extensive experience
+              I am a research software engineer and bioinformatician with experience
               in open-source development and software education. My work sits at the intersection
               of computational biology, marine microbial ecology, and metagenomics.
             </p>
