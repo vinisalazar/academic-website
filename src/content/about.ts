@@ -1,19 +1,14 @@
 export const aboutContent = `# About
 
-## Background
+I'm a biologist at heart, and bioinformatician by trade. After completing a BSc in Biological Sciences, I knew I wanted to work with bioinformatics.
+I couldn't find a suitable MSc program, so I did one in Computer and Systems Engineering at COPPE UFRJ, with a placement at the Thompson lab.
+After that, I moved to Melbourne in 2021 to do my PhD at Melbourne Integrative Genomics with Prof. Kim-Anh Lê Cao.
 
-[Short personal bio — who you are beyond the research.]
+Since 2024, I've been a lecturer and bioinformatician at Melbourne Bioinformatics.
 
-## Education
+I use Vinícius W. Salazar in formal documents and texts, and Vini Salazar for everything else.
 
-- **PhD**, [Field], [University], [Year]
-- **[Degree]**, [Field], [University], [Year]
+Outside of work, I am an avid amateur rower, regularly competing in regattas around Victoria. I also enjoy surfing, scuba diving, and making music.
 
-## Personal Interests
-
-[Hobbies, non-academic interests, etc.]
-
-## Contact
-
-[Email, social links, office location, etc.]
+For contact information, please see the [CV page](https://vinisalazar.github.io/cv).
 `;
