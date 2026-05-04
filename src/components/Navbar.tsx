@@ -22,7 +22,7 @@ const ThemeToggle = () => {
 const links = [
   { to: "/", label: "Home" },
   { to: "/research", label: "Research" },
-  { to: "/publications", label: "Publications" },
+  { to: "/about", label: "About" },
   { to: "/cv", label: "CV" },
 ];
 

@@ -2,7 +2,7 @@ import { useEffect, useCallback } from "react";
 import useEmblaCarousel from "embla-carousel-react";
 
 const photos = Object.values(
-  import.meta.glob("../assets/photos/*", { eager: true, query: "?url", import: "default" })
+  import.meta.glob("../assets/home-slideshow/*", { eager: true, query: "?url", import: "default" })
 ) as string[];
 
 // Fisher-Yates shuffle, runs once at module load time

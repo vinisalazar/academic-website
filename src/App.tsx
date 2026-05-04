@@ -7,7 +7,7 @@ import { ThemeProvider } from "next-themes";
 import Layout from "./components/Layout";
 import Index from "./pages/Index";
 import Research from "./pages/Research";
-import Publications from "./pages/Publications";
+import About from "./pages/About";
 import CVPage from "./pages/CV";
 import NotFound from "./pages/NotFound";
 
@@ -24,7 +24,7 @@ const App = () => (
           <Route element={<Layout />}>
             <Route path="/" element={<Index />} />
             <Route path="/research" element={<Research />} />
-            <Route path="/publications" element={<Publications />} />
+            <Route path="/about" element={<About />} />
             <Route path="/cv" element={<CVPage />} />
           </Route>
           <Route path="*" element={<NotFound />} />

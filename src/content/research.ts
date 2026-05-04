@@ -25,4 +25,8 @@ I work as a **Bioinformatician** at [Melbourne Bioinformatics](https://www.melbo
 ## Collaborations
 
 My research involves collaborations across microbiology, marine science, and computational biology, spanning projects on novel bacterial species, plant-microbiome interactions, and marine carbon cycling.
+
+## Publications
+
+For a full list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=P6xo0BsAAAAJ&hl=en) or [ORCID profile](https://orcid.org/0000-0002-8362-3195).
 `;

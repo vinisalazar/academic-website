@@ -47,10 +47,10 @@ const Index = () => {
               Research →
             </Link>
             <Link
-              to="/publications"
+              to="/about"
               className="text-sm font-medium text-primary underline underline-offset-4 hover:opacity-75 transition-opacity"
             >
-              Publications →
+              About →
             </Link>
             <Link
               to="/cv"
