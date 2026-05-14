@@ -32,7 +32,7 @@ export const cvContent = `# Curriculum Vitae
 | 2021 – 2024 | **Melbourne Research Scholarship** – 3.5 years of full tuition fee & living stipend | The University of Melbourne |
 | 2022 | **Google Summer of Code Internship** – 6,000 USD software development grant | NOAA IOOS |
 | 2021 | **Python Software Foundation Scientific Working Group Grant** – 4,000 USD educational material development grant | The Carpentries |
-| 2014 – 2015 | **CNPq Science without Borders Scholarship** – 1 year of full tuition fee & living stipend | University of Queensland |
+| 2014 – 2015 | **CNPq Science without Borders Scholarship** – 1 year of full tuition fee & living stipend | CNPq/University of Queensland |
 
 ## Skills
 
